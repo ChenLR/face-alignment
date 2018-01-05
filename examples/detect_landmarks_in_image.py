@@ -1,3 +1,5 @@
+import sys
+sys.path.append("../")
 import face_alignment
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
